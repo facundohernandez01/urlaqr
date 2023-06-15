@@ -9,7 +9,7 @@ const Whatsapp = ()=> {
     return (
         <div>
             <a
-                href="https://wa.me/0543400498587/?text=Welcome to Techblog369 Team"
+                href="https://wa.me/0543400498587/?text=Hola desde Vercel"
                 className="whatsapp_float"
                 target="_blank"
                 body="hello world"
